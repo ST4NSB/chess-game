@@ -11,15 +11,18 @@
 - Graphic Interface with also a help option
 - Text-Log to keep track of all the moves
 - Self made assets
-- Respects ![Chess Rules](https://www.chess.com/learn-how-to-play-chess)
+- Respects [Chess Rules](https://www.chess.com/learn-how-to-play-chess)
 
 ## Preview 
 
 **Playing as white**
-![](https://imgur.com/Pjnvo3B)
+
+![](https://i.imgur.com/ABZtg9E.jpg)
 
 **Playing as black**
-![](https://imgur.com/p1mfzvr)
+
+![](https://i.imgur.com/wttil7Q.jpg)
 
 **Winning**
-![](https://imgur.com/22W7NVf)
+
+![](https://imgur.com/bd70UPN.jpg)
