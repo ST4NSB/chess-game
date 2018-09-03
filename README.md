@@ -1,6 +1,6 @@
 # Chess Game
 
-[](http://wealthmaxi.com/wp-content/uploads/2017/03/chess-banner-e1413862890327.jpg)
+![](http://wealthmaxi.com/wp-content/uploads/2017/03/chess-banner-e1413862890327.jpg)
 
 ## Features
 
@@ -11,15 +11,15 @@
 - Graphic Interface with also a help option
 - Text-Log to keep track of all the moves
 - Self made assets
-- Respects [Chess Rules](https://www.chess.com/learn-how-to-play-chess)
+- Respects ![Chess Rules](https://www.chess.com/learn-how-to-play-chess)
 
 ## Preview 
 
 **Playing as white**
-[](https://imgur.com/Pjnvo3B)
+![](https://imgur.com/Pjnvo3B)
 
 **Playing as black**
-[](https://imgur.com/p1mfzvr)
+![](https://imgur.com/p1mfzvr)
 
 **Winning**
-[](https://imgur.com/22W7NVf)
+![](https://imgur.com/22W7NVf)
