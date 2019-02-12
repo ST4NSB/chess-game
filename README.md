@@ -1,7 +1,5 @@
 # Chess Game
 
-![](http://wealthmaxi.com/wp-content/uploads/2017/03/chess-banner-e1413862890327.jpg)
-
 ## Features
 
 - Made in C++ Builder
